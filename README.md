@@ -4,7 +4,7 @@
 
 
 ## Get Started (online)
-Click here! ---> 
+Click here! ---> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meevans1/How-to-rediscover-the-Z/master)
 
 Click on How-to-rediscover-the-Z.ipynb
 
