@@ -18,4 +18,4 @@ Open a [Jupyter notebook](https://jupyter.org) using your favourite [Python](htt
 
 Click on How-to-rediscover-the-Z.ipynb (either the original one you downloaded or your version that you downloaded)
 
-![Z Feynman diagram](Zee_feynman.png)
+![Z Feynman diagram](Z_feynman.png)
